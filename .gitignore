@@ -1,0 +1,13 @@
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+*.pkl
+
+# Ignore datasets if they don't need to be versioned
+*.csv
+
+venv/
