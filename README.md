@@ -24,12 +24,6 @@ User redirected to the result page after submitting form.
 ![Screenshot (101)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/efebf129-17f4-40d5-9829-7cefee5ed14c)
 
 
-
-## Website Link:
-
-https://placement-prediction-18gm.onrender.com/
-
-
 ## Usage:
 Steps:
 1. Clone Project
@@ -44,6 +38,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-## Contributors
-- <a href="https://github.com/akshaykoganur">Akshay Koganur</a>
-- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
+
